@@ -16,6 +16,10 @@ The program will automatically download the checkpoint files.
 
 Other configuration please check pinferencia document and streamlit document.
 
+## TODO
+
+- [ ] Draw bbox or segm in web.
+
 # Dependency
 
 ```
