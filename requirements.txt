@@ -1,0 +1,7 @@
+mmcv>=2.0.0rc3
+mmdet>=3.0.0rc5
+mmengine>=0.4.0
+mmrotate>=1.0.0rc1
+openmim==0.3.3
+pinferencia
+streamlit
